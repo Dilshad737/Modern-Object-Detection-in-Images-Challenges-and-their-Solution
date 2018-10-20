@@ -1,0 +1,39 @@
+1) Download and install Python 3 from official Python Language website  https://python.org
+
+2) Install the following dependencies via pip:
+
+i. Tensorflow
+
+pip install tensorflow
+
+ii. Numpy
+
+pip install numpy
+
+iii. SciPy
+
+pip install scipy
+
+iv. OpenCV
+
+pip install opencv-python
+
+v. Pillow
+
+pip install pillow
+
+vi. Matplotlib
+
+pip install matplotlib
+
+vii. H5py
+
+pip install h5py
+
+viii. Keras
+
+pip install keras
+
+ix. ImageAI
+
+pip3 install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl

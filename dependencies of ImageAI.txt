@@ -1,0 +1,10 @@
+Python 3
+Tensorflow
+Numpy
+SciPy
+OpenCV
+Pillow
+Matplotlib
+H5py
+Keras
+ImageAI
